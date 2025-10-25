@@ -1,0 +1,11 @@
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Core\bin\Debug\net8.0\ELKOOD.ToDo.Core.deps.json
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Core\bin\Debug\net8.0\ELKOOD.ToDo.Core.dll
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Core\bin\Debug\net8.0\ELKOOD.ToDo.Core.pdb
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Core\obj\Debug\net8.0\ELKOOD.ToDo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Core\obj\Debug\net8.0\ELKOOD.ToDo.Core.AssemblyInfoInputs.cache
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Core\obj\Debug\net8.0\ELKOOD.ToDo.Core.AssemblyInfo.cs
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Core\obj\Debug\net8.0\ELKOOD.ToDo.Core.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Core\obj\Debug\net8.0\ELKOOD.ToDo.Core.dll
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Core\obj\Debug\net8.0\refint\ELKOOD.ToDo.Core.dll
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Core\obj\Debug\net8.0\ELKOOD.ToDo.Core.pdb
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Core\obj\Debug\net8.0\ref\ELKOOD.ToDo.Core.dll

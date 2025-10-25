@@ -1,0 +1,15 @@
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Application\bin\Debug\net8.0\ELKOOD.ToDo.Application.deps.json
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Application\bin\Debug\net8.0\ELKOOD.ToDo.Application.dll
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Application\bin\Debug\net8.0\ELKOOD.ToDo.Application.pdb
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Application\bin\Debug\net8.0\ELKOOD.ToDo.Core.dll
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Application\bin\Debug\net8.0\ELKOOD.ToDo.Core.pdb
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Application\obj\Debug\net8.0\ELKOOD.ToDo.Application.csproj.AssemblyReference.cache
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Application\obj\Debug\net8.0\ELKOOD.ToDo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Application\obj\Debug\net8.0\ELKOOD.ToDo.Application.AssemblyInfoInputs.cache
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Application\obj\Debug\net8.0\ELKOOD.ToDo.Application.AssemblyInfo.cs
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Application\obj\Debug\net8.0\ELKOOD.ToDo.Application.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Application\obj\Debug\net8.0\ELKOOD.ToDo.Application.dll
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Application\obj\Debug\net8.0\refint\ELKOOD.ToDo.Application.dll
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Application\obj\Debug\net8.0\ELKOOD.ToDo.Application.pdb
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Application\obj\Debug\net8.0\ref\ELKOOD.ToDo.Application.dll
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Application\obj\Debug\net8.0\ELKOOD.T.A1B82DC5.Up2Date

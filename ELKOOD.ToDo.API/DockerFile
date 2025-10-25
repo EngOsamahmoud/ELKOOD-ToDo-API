@@ -1,0 +1,31 @@
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
+WORKDIR /app
+EXPOSE 80
+EXPOSE 443
+
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+WORKDIR /src
+
+COPY ["ELKOOD.ToDo.API/ELKOOD.ToDo.API.csproj", "ELKOOD.ToDo.API/"]
+COPY ["ELKOOD.ToDo.Application/ELKOOD.ToDo.Application.csproj", "ELKOOD.ToDo.Application/"]
+COPY ["ELKOOD.ToDo.Core/ELKOOD.ToDo.Core.csproj", "ELKOOD.ToDo.Core/"]
+COPY ["ELKOOD.ToDo.Infrastructure/ELKOOD.ToDo.Infrastructure.csproj", "ELKOOD.ToDo.Infrastructure/"]
+
+RUN dotnet restore "ELKOOD.ToDo.API/ELKOOD.ToDo.API.csproj"
+
+COPY . .
+
+WORKDIR "/src/ELKOOD.ToDo.API"
+RUN dotnet build "ELKOOD.ToDo.API.csproj" -c Release -o /app/build
+
+FROM build AS publish
+RUN dotnet publish "ELKOOD.ToDo.API.csproj" -c Release -o /app/publish
+
+FROM base AS final
+WORKDIR /app
+COPY --from=publish /app/publish .
+
+RUN adduser --disabled-password --home /app --gecos '' appuser && chown -R appuser /app
+USER appuser
+
+ENTRYPOINT ["dotnet", "ELKOOD.ToDo.API.dll"]

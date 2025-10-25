@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELKOOD.ToDo.API", "ELKOOD.ToDo.API\ELKOOD.ToDo.API.csproj", "{ABBD1F2F-C7AD-4741-B212-B4079B9CDDE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELKOOD.ToDo.Core", "ELKOOD.ToDo.Core\ELKOOD.ToDo.Core.csproj", "{821D854C-8726-4BC5-8EF2-13C65273F5CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELKOOD.ToDo.Application", "ELKOOD.ToDo.Application\ELKOOD.ToDo.Application.csproj", "{D78DF1FA-A860-4DA3-9954-63B1EB4782F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELKOOD.ToDo.Infrastructure", "ELKOOD.ToDo.Infrastructure\ELKOOD.ToDo.Infrastructure.csproj", "{C1ACBA82-EDB5-4EE5-BCC9-5D766B2CB338}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELKOOD.ToDo.UnitTests", "ELKOOD.ToDo.UnitTests\ELKOOD.ToDo.UnitTests.csproj", "{8A6B4307-5275-4819-80BF-05AF9696CFDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELKOOD.ToDo.IntegrationTests", "ELKOOD.ToDo.IntegrationTests\ELKOOD.ToDo.IntegrationTests.csproj", "{522E678B-AAB7-45B6-A316-78CB4F95EFFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABBD1F2F-C7AD-4741-B212-B4079B9CDDE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABBD1F2F-C7AD-4741-B212-B4079B9CDDE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABBD1F2F-C7AD-4741-B212-B4079B9CDDE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABBD1F2F-C7AD-4741-B212-B4079B9CDDE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{821D854C-8726-4BC5-8EF2-13C65273F5CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821D854C-8726-4BC5-8EF2-13C65273F5CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821D854C-8726-4BC5-8EF2-13C65273F5CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821D854C-8726-4BC5-8EF2-13C65273F5CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D78DF1FA-A860-4DA3-9954-63B1EB4782F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D78DF1FA-A860-4DA3-9954-63B1EB4782F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D78DF1FA-A860-4DA3-9954-63B1EB4782F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D78DF1FA-A860-4DA3-9954-63B1EB4782F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1ACBA82-EDB5-4EE5-BCC9-5D766B2CB338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1ACBA82-EDB5-4EE5-BCC9-5D766B2CB338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1ACBA82-EDB5-4EE5-BCC9-5D766B2CB338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1ACBA82-EDB5-4EE5-BCC9-5D766B2CB338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A6B4307-5275-4819-80BF-05AF9696CFDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6B4307-5275-4819-80BF-05AF9696CFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6B4307-5275-4819-80BF-05AF9696CFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6B4307-5275-4819-80BF-05AF9696CFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{522E678B-AAB7-45B6-A316-78CB4F95EFFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522E678B-AAB7-45B6-A316-78CB4F95EFFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522E678B-AAB7-45B6-A316-78CB4F95EFFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522E678B-AAB7-45B6-A316-78CB4F95EFFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

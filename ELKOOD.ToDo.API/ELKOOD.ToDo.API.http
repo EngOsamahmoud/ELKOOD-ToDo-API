@@ -1,0 +1,6 @@
+@ELKOOD.ToDo.API_HostAddress = http://localhost:5036
+
+GET {{ELKOOD.ToDo.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
