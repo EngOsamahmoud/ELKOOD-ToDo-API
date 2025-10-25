@@ -9,3 +9,4 @@ C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToD
 C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Core\obj\Debug\net8.0\refint\ELKOOD.ToDo.Core.dll
 C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Core\obj\Debug\net8.0\ELKOOD.ToDo.Core.pdb
 C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Core\obj\Debug\net8.0\ref\ELKOOD.ToDo.Core.dll
+C:\Users\KIIT\Documents\Osama Mahmoud\Job\Elkood\Code\ELKOOD-ToDo-API\ELKOOD.ToDo.Core\obj\Debug\net8.0\ELKOOD.ToDo.Core.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ELKOOD.ToDo.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9faba3f073eb9d8cf6a0361fa54ad9b358c4e4f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ELKOOD.ToDo.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ELKOOD.ToDo.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
