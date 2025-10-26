@@ -24,7 +24,7 @@ A professional To-Do management RESTful API built with ASP.NET Core, using Clean
 - **Role-Based Access Control** (RBAC)
 - **JWT Bearer Authentication**
 
-## 🛠️ Technologies
+## Technologies
 
 - ASP.NET Core 8.0
 - Entity Framework Core 8.0
