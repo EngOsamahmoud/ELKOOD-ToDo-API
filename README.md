@@ -1,8 +1,8 @@
-# ELKOOD ToDo API 🚀
+# ELKOOD ToDo API 
 
 A professional To-Do management RESTful API built with ASP.NET Core, using Clean Architecture and JWT Authentication. Developed as part of the ELKOOD back-end developer recruitment process.
 
-## 📋 Features
+## Features
 
 - **JWT Authentication** with role-based authorization (Owner/Guest)
 - **Complete CRUD Operations** for ToDo items
@@ -17,7 +17,7 @@ A professional To-Do management RESTful API built with ASP.NET Core, using Clean
 - **Global Error Handling & Logging**
 - **Clean Architecture** (Onion Architecture)
 
-## 🏗️ Architecture
+## Architecture
 
 - **Clean Architecture** with 4-layer separation
 - **Repository Pattern** with Dependency Injection
@@ -35,7 +35,7 @@ A professional To-Do management RESTful API built with ASP.NET Core, using Clean
 - xUnit, Moq, FluentAssertions
 - Docker & Docker Compose
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Using .NET CLI (Development)
 
